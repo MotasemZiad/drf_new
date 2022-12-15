@@ -8,7 +8,7 @@ from rest_framework import status
 
 class EcommerceTestCase(APITestCase):
     """
-    Test suite for Items and Orders
+    Test suite for Items and Orders.
     """
 
     def setUp(self):
